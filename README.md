@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhargavdj2001
+- 👋 Hi, I’m Bhargav Jayanth @bhargavdj2001
 - 👀 I’m interested in Python and Web Development
 - 🌱 I’m currently learning Java, Data Structures and Algorithms, Flask
 - 📫 How to reach me via email: bhargavdj2001@gmail.com
